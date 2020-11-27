@@ -1,0 +1,16 @@
+GIT HUB
+
+Configurando usuários: git config --global user.name "nome"
+Configurando e-mail: git config --global user.e-mail "email"
+Configurando editor: git config --global core.editor "editor"
+
+verificando informações de usuário: git config user.name
+verificando informações de e-mail: git config user.email
+
+Ver todas as informações do usuário cadastrado: git config --list
+
+Voltar um diretório no cmd: cd ../
+
+Iniciar repositório dentro da pasta: git init
+
+						
